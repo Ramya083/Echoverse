@@ -1,0 +1,5 @@
+streamlit
+gTTS
+youtube-transcript-api
+requests
+urllib3
